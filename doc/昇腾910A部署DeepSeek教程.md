@@ -34,7 +34,7 @@ bash /usr/local/Ascend/firmware//script/uninstall.sh
 ```
 ### 3.安装驱动
 [固件驱动下载地址](https://www.hiascend.com/hardware/firmware-drivers/community?product=4&model=10&cann=8.0.0.beta1&driver=1.0.22.5.alpha)
-![[../img/img1.png]]
+![[https://github.com/longllovers/Deploying-DeepSeek-on-Ascend-910A/blob/main/img/img1.png]]
 #### 先下载，后切换为root权限，放到任意目录下面
 ```bash
 chmod +x Ascend-hdk-910-npu-driver_24.1.0_linux-aarch64.run 

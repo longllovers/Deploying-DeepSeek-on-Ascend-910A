@@ -21,7 +21,7 @@
 
 ## 📦 模型信息
 
-- **推荐模型**：`DeepSeek-R1-Distill-Qwen-32B`
+- **推荐模型**：`DeepSeek-R1-Distill-Qwen-32B-W8A8`
     
 - **详细说明**：请参考项目中的 `doc/` 文件夹
 
